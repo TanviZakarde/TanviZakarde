@@ -5,7 +5,11 @@
 - 📫 How to reach me **tzakarde27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><p align="left">
+<a href="https://www.linkedin.com/in/tanvi-zakarde-b9a5432b7" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
